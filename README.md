@@ -8,4 +8,6 @@ _Этот текст выделен курсивом_
 - George Washington
 * JoHn Adams
 + Thomas Jefferson
- 
+1. George Washington
+2. JoHn Adams
+3. Thomas Jefferson
