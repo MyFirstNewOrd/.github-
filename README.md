@@ -13,3 +13,4 @@ _Этот текст выделен курсивом_
 3. Thomas Jefferson
 - [x] #739
 - [ ] https://github.com/octo-repo/issues/740
+@octocat :+1: This PR looks great - it's ready to merge! :shipit: 
