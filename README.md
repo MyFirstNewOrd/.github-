@@ -5,3 +5,7 @@ _Этот текст выделен курсивом_
 ***Весь этот текст важен***
 Это <sub>подсрочный</sub> текст
 Это <sup>надсрочный</sup> текст
+- George Washington
+* JoHn Adams
++ Thomas Jefferson
+ 
