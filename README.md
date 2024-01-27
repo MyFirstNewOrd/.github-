@@ -11,5 +11,5 @@ _Этот текст выделен курсивом_
 1. George Washington
 2. JoHn Adams
 3. Thomas Jefferson
-- [х] #739
+- [x] #739
 - [ ] https://github.com/octo-repo/issues/740
